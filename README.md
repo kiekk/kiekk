@@ -7,22 +7,22 @@
 
 
 ### 현재 학습중인 것들
-<img src="https://img.shields.io/badge/Apache-d22128?style=flat-square&logo=apache&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security OAuth2-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=jenkins&logoColor=d24939"/>
-<img src="https://img.shields.io/badge/Redis-white?style=flat-square&logo=redis&logoColor=d2382d"/>
+<img src="https://img.shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security OAuth2-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins&logoColor=d24939"/>
+<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=d2382d"/>
 
 
 ### 학습할 것들
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=black"/>
-<img src="https://img.shields.io/badge/Elastic Search-005571?style=flat-square&logo=elasticsearch&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
 
 ### Blog
