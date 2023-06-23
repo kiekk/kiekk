@@ -44,7 +44,7 @@
 
 #### after
 
-- lecture-study : 인프런 강의 / 유튜브 영상을 통해 학습한 내용들을 해당 Repository로 묶어 관리
+- inflearn-** : 인프런 강의를 통해 학습한 내용을 정리
 - book-report : 책을 읽고 정리한 내용을 해당 Repository로 묶어 관리
 - book-study : 책을 통해 코드로 학습한 내용을 해당 Repository로 묶어 관리
 - study-** : 개인적으로 학습한 내용을 정리
