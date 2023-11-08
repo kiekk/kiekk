@@ -10,17 +10,15 @@
 
 ### 현재 학습중인 것들
 
+[//]: # (<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>)
+[//]: # (<img src="https://img.shields.io/badge/Spring Security OAuth2-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>)
+[//]: # (<img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins&logoColor=d24939"/>)
+[//]: # (<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=d2382d"/>)
+
 <div align="center">
 <img src="https://img.shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
-
-[//]: # (<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>)
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-
-[//]: # (<img src="https://img.shields.io/badge/Spring Security OAuth2-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>)
-
-[//]: # (<img src="https://img.shields.io/badge/Jenkins-white?style=flat&logo=jenkins&logoColor=d24939"/>)
-[//]: # (<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=redis&logoColor=d2382d"/>)
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-orange?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=Spring&logoColor=white"/>
