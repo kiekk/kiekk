@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-orange?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
 
