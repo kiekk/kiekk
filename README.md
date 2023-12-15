@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-orange?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
 
 ### 학습할 것들
@@ -33,7 +34,6 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=black"/>
 <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
 
 ### Blog
