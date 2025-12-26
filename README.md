@@ -33,23 +33,23 @@
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
+  <!--
   <p><strong>Frontend</strong></p>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <!--<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">-->
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   </div>
 
-  <!--
+  
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   </div>
-  -->
 
   <div>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/badge/Pinia-FADA80?style=for-the-badge&logo=pinia&logoColor=black">
     <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white">
   </div>
+  
 
   <p><strong>Template Engine</strong></p>
 
@@ -65,11 +66,12 @@
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
   </div>
+  -->
 
   <p><strong>Backend</strong></p>
   <!-- Java/Kotlin -->
   <div>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   </div>
 
@@ -77,10 +79,10 @@
   <div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Data JPA-59666C?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
-    <img src="https://img.shields.io/badge/OAuth2-F69E1D?style=for-the-badge&logo=spring-security&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Batch-87BF3E?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/OAuth2-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   </div>
 
   <!-- Node -->
@@ -93,19 +95,23 @@
   -->
 
   <!-- Build Tools -->
+  <!--
   <p><strong>Build Tools</strong></p>
   <div>
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   </div>
+  -->
 
   <!-- Database -->
   <p><strong>Database</strong></p>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+    <!--
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
     <img src="https://img.shields.io/badge/MyBatis-B41717?style=for-the-badge&logo=mybatis&logoColor=white">
+    -->
   </div>
 
   <!-- Server -->
@@ -136,6 +142,7 @@
   </div>
 
   <!-- Version Control -->
+  <!--
   <p><strong>Version Control</strong></p>
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -143,6 +150,7 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
   </div>
+  -->
 
   <!-- Testing -->
   <p><strong>Testing</strong></p>
@@ -158,15 +166,19 @@
   <div>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+    <!--
     <img src="https://img.shields.io/badge/GitLab CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+    -->
   </div>
 
   <!-- Development Tools -->
+  <!--
   <p><strong>Development Tools</strong></p>
   <div>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white">
   </div>
+  -->
 
 </div>
